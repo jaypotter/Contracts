@@ -3,7 +3,8 @@
     "description": "PHP Interface Collection",
     "type": "metapackage",
     "require": {
-        "php": "^8.3"
+        "php": "^8.3",
+        "potter/container-interface": "dev-main"
     },
     "license": "MIT",
     "authors": [
