@@ -5,7 +5,8 @@
     "require": {
         "php": "^8.3",
         "potter/clock-interface": "dev-main",
-        "potter/container-interface": "dev-main"
+        "potter/container-interface": "dev-main",
+        "potter/aware-interface": "dev-main"
     },
     "license": "MIT",
     "authors": [
