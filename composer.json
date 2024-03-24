@@ -6,6 +6,7 @@
         "php": "^8.3",
         "potter/aware-interface": "dev-main",
         "potter/clock-interface": "dev-main",
+        "potter/cloneable-interface": "dev-main",
         "potter/container-interfaces": "dev-main"
     },
     "license": "MIT",
