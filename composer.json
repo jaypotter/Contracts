@@ -8,7 +8,7 @@
         "potter/clock-interface": "dev-main",
         "potter/cloneable-interface": "dev-main",
         "potter/container-interfaces": "dev-main",
-        "potter/link-interfaces": "dev-main"
+        "potter/link-interfaces": "dev-main",
         "potter/logger-interfaces": "dev-main"
     },
     "license": "MIT",
