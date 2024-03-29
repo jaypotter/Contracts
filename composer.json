@@ -10,7 +10,8 @@
         "potter/container-interfaces": "dev-main",
         "potter/event-interfaces": "dev-main",
         "potter/link-interfaces": "dev-main",
-        "potter/logger-interfaces": "dev-main"
+        "potter/logger-interfaces": "dev-main",
+        "potter/session-interface": "dev-main"
     },
     "license": "MIT",
     "authors": [
