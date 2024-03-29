@@ -11,7 +11,7 @@
         "potter/event-interfaces": "dev-main",
         "potter/link-interfaces": "dev-main",
         "potter/logger-interfaces": "dev-main",
-        "potter/session-interface": "dev-main"
+        "potter/session-interfaces": "dev-main"
     },
     "license": "MIT",
     "authors": [
