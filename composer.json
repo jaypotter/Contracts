@@ -5,7 +5,8 @@
     "require": {
         "php": "^8.3",
         "potter/application-interface": "dev-main",
-        "potter/aware-interface": "dev-main",
+        "potter/aware-interfaces": "dev-main",
+        "potter/buffer-interfaces": "dev-main",
         "potter/clock-interface": "dev-main",
         "potter/cloneable-interface": "dev-main",
         "potter/container-interfaces": "dev-main",
@@ -13,6 +14,9 @@
         "potter/link-interfaces": "dev-main",
         "potter/logger-interfaces": "dev-main",
         "potter/session-interfaces": "dev-main"
+    },
+    "suggest": {
+        "potter/framework": "dev-main"
     },
     "license": "MIT",
     "authors": [
