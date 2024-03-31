@@ -14,7 +14,8 @@
         "potter/link-interfaces": "dev-main",
         "potter/logger-interfaces": "dev-main",
         "potter/socket-interfaces": "dev-main",
-        "potter/session-interfaces": "dev-main"
+        "potter/session-interfaces": "dev-main",
+        "potter/tickable-interface": "dev-main"
     },
     "suggest": {
         "potter/framework": "dev-main"
